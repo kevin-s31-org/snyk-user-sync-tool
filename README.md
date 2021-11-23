@@ -75,7 +75,7 @@ For more details, see the [Membership file format](#membership-file-format) sect
 ```
 export SNYK_IAM_MEMBERSHIP_FILE=<absolute path to user membership json file>
 export SNYK_IAM_API_KEYS='<group name>':<group key>,'<group name>':<group key>
-(Note: group key is either the Service API TOKEN (Which is unique per Group or you can use your personal API token)I)
+(Note: group key is either the Service API TOKEN (Which is unique per Group or you can use your personal API token))
 ```
 
 if running self-hosted/on-premise Snyk, set the SNYK_API endpoint
